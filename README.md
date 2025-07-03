@@ -1,1 +1,1 @@
-# blackjack-game
+# Blackjack Game Project
